@@ -9,7 +9,7 @@ calculations through simulation and PCB layout.
 The primary goal of this project is to develop a deep understanding of:
 - How to derive and implement a **small-signal model** of a switching 
   converter in MATLAB using Christophe Basso's transfer function methodology
-- How to design a **Type II compensator** using the SISO tool and verify 
+- How to design a **Type II compensator** using Matlab and verify 
   stability margins (phase margin, gain margin, crossover frequency)
 - How to go from **math to real hardware** — translating theoretical models 
   into a working discrete PCB design
