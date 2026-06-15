@@ -41,5 +41,5 @@ The primary goal of this project is to develop a deep understanding of:
 - Full closed-loop LTspice simulation with load step transient
 
 
-<img width="1388" height="787" alt="PCB" src="https://github.com/user-attachments/assets/3cb05e14-23f5-4f0b-b078-c4595af1cd20" />
+<img width="1313" height="788" alt="PCB" src="https://github.com/user-attachments/assets/590bb326-5951-47c1-be23-0375a93e1447" />
 
