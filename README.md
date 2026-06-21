@@ -1,4 +1,4 @@
-# Inverting Buck-Boost Converter — Discrete PCMC Design
+# Inverting Buck-Boost Converter —  Peak current mode control Design
 
 A complete design of a discrete **inverting buck-boost DC-DC converter** 
 operating under **Peak Current Mode Control (PCMC)**, from theoretical 
